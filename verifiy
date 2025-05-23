@@ -1,5 +1,3 @@
--- Coloque esse script em ServerScriptService
-
 game.Players.PlayerAdded:Connect(function(player)
     player:Kick("Este script está sendo atualizado pelo desenvolvedor. Tente novamente mais tarde.")
 end)
